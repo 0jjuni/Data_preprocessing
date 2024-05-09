@@ -7,3 +7,5 @@
 ### 1. [One-Hot Encoding](https://blog.naver.com/iyoung1000/223438006071)
 사이킷런의 OneHotEncoder와 Pandas의 get_dummies 함수를 이용하여 iris 데이터의 품종을 원-핫 인코딩한 예제입니다.
 
+### 2. [Label Encoding](https://blog.naver.com/iyoung1000/223441884105)
+사이킷런의 LabelEncoder와 Pandas의 factorize 함수를 이용하여 iris 데이터의 품종을 레이블 인코딩한 예제입니다.
