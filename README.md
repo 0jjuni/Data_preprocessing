@@ -1,6 +1,6 @@
 # Data_preprocessing repo 소개 ✨
 해당 repo는 네이버 블로그에 데이터 전처리에 관한 내용을 정리하며 파이썬을 활용하여 전처리하는 부분을 업로드하는 공간입니다. 
-올라오는 코드에 대한 설명은 [<img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="20"/>](https://blog.naver.com/iyoung1000)에 작성하고 있으니, 코드에 관해 궁금한 점이 있으신 분들은 **아래 목차별 제목에 걸어두는 링크**를 확인하시기 바랍니다.
+올라오는 코드에 대한 설명은 [<img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="20"/>](https://blog.naver.com/iyoung1000) 에 작성하고 있으니, 코드에 관해 궁금한 점이 있으신 분들은 **아래 목차별 제목에 걸어두는 링크**를 확인하시기 바랍니다.
 
 
 ## 🔢 데이터 인코딩
